@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rejaul Karim</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="[https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?semt=ais_hybrid&w=740&q=80](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkpvNUN0TnpzWUxCTDM2UDlWZkswSldkZS11QXxBQ3Jtc0tuZUpSQk9lSnhRZ0VPZm81MWhhYU1XcXk5R3FNRUVjNHdjVGs4VDN4R3ZBRDBJUDZBYUFiVE1YaE1PS05Rd0NYeW5yYmJ6cmVha01xTmlRMFVncjlMVlJLbnlzSXB1MnlsQnVSa190ZmZVUHdURU9jYw&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0)">
+<img align="right" alt="coding" width="400" src="https://www.graphicpear.com/wp-content/uploads/2016/11/galshir-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rejaul-dev&label=Profile%20views&color=0e75b6&style=flat" alt="rejaul-dev" /> </p>
 
