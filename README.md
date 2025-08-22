@@ -1,4 +1,4 @@
-![logo](https://github.com/Rejaul-Dev/Rejaul-Dev/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+![logo](https://github.com/Rejaul-Dev/Rejaul-Dev/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Rejaul Karim</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
